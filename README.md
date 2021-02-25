@@ -1,1 +1,2 @@
 # trafic_data_skatteetaten
+I denne casestudien, med sikte på å ha et totalkonsept for telefontrafikkrapporten for desember 2020, og for å forbedre kvaliteten og effektiviteten til kundeservice, har jeg til hensikt å analysere datasettet med en størrelse på 438 observasjoner og 43 variabler. Variablene inkluderer forskjellige dimensjoner av trafikkdata, som dato, antall anrop, og detaljeinformasjon for hvert anrop.
